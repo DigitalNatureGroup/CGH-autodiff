@@ -4,7 +4,7 @@ There are two projects included (2021/07/23).
 
 ## Multiple Binary Optimization
 
-### [Project Page]() | [Paper]()
+### [Project Page](https://digitalnature.slis.tsukuba.ac.jp/2021/07/multiple-binary-hologram-optimization/) | [Paper]() | [Slide](https://speakerdeck.com/digitalnaturegroup/gradient-based-optimization-of-time-multiplexed-binary-computer-generated-holograms-by-digital-mirror-device-digital-holography-and-three-dimensional-imaging-at-osa-imaging-and-applied-optics-congress-oral-presentation-by-kenta-yamamoto)
 <b >"Gradient-based Optimization of Time-Multiplexed Binary Computer-Generated Holograms by Digital Mirror Device"</b>  
 [Kenta Yamamoto](https://digitalnature.slis.tsukuba.ac.jp/2017/04/kenta-yamamoto/), [Yoichi Ochiai](https://digitalnature.slis.tsukuba.ac.jp/2018/09/yoichi-ochiai/)
 
